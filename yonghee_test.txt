@@ -1,0 +1,11 @@
+pdf 암호화방법
+https://helpx.adobe.com/kr/acrobat/how-to/security-permissions-protect-pdf-files.html
+
+npdf 사용방식
+https://mainia.tistory.com/4162
+
+rc4 취약점
+https://cpuu.postype.com/post/535691
+
+rc4 익히기
+https://bpsecblog.wordpress.com/2016/11/29/amalmot_5/
